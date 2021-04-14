@@ -47,7 +47,7 @@ namespace stone1
         public double ElevatorMaxVal { set; get; }
         public double AileronMinVal { get; set; }
         public double AileronMaxVal { get; set; }
-        public ControllsStatus(SimulationRunner sr, double ailMax, double ailMin, double elMax, double elMin, string[] par)
+        public ControllsStatus(ViewModel sr, double ailMax, double ailMin, double elMax, double elMin, string[] par)
         {
             runner = sr;
             AileronMinVal = ailMax;

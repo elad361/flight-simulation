@@ -29,3 +29,11 @@ Install .net framework
 [link for UML](https://raw.githubusercontent.com/elad361/flight-simulation/main/UML.png)
 
 [link for video](https://github.com/elad361/flight-simulation/blob/main/zoom_0.mp4)
+
+
+
+PS - As I wrote to Eli, I couldn't find partners to do the project with. As I result I had to do the whole project all by myself. 
+Because of that I did not succeed to finish the whole project on time (I am missing the DLL on runtime and the anomally detection).
+I would really appriciate it, if you will make an exception and take this into consideration while grading my project.
+Thanks in advance !
+Elad 

@@ -12,7 +12,7 @@ namespace stone1
 {
     class GraphModel
     {
-        public static void makeANewGrahp(SimulationRunner runner, int index)
+        public static void makeANewGrahp(ViewModel runner, int index)
         {
             int x = 1;
             runner.last30Points = new ObservableCollection<DataPoint>();
@@ -29,7 +29,7 @@ namespace stone1
                 }
             }
         }
-        public static PlotModel updateGraph(SimulationRunner runner, double newVal)
+        public static PlotModel updateGraph(ViewModel runner, double newVal)
         {
             ObservableCollection<DataPoint> newList = new ObservableCollection<DataPoint>();
             if (runner.last30Points.Count == 30)

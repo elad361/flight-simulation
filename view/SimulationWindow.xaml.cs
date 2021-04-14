@@ -22,7 +22,7 @@ namespace stone1
     /// </summary>
     public partial class SimulationWindow : Window
     {
-        SimulationRunner runner;
+        ViewModel runner;
 
         public SimulationWindow(string path, int port)
         {

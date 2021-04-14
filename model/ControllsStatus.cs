@@ -11,7 +11,7 @@ namespace stone1
 {
     class ControllsStatus
     {
-        SimulationRunner runner;
+        ViewModel runner;
         string[] parameters;
         double pixelsFromLeft;
         double pixelsFromTop;

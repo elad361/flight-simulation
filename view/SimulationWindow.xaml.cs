@@ -29,7 +29,7 @@ namespace stone1
             InitializeComponent();
             try
             {
-                runner = new SimulationRunner(path, this, port);
+                runner = new ViewModel(path, this, port);
             }
             catch (Exception e)
             {

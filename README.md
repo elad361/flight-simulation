@@ -1,7 +1,11 @@
 # flight-simulation
 **read me**
+
+
 i'v implement the simulator by using MVVM Architectural pattern.
 my classes:
+
+
 #view
 * **MainWindow** nevigation window to the HomePage
 * **HomePage** here you can feed path to the csv which include the flight data and port to the FG

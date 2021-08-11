@@ -18,7 +18,7 @@ my classes:
 in order to compile and run the app:
 * firstly we should put all the given codeFiles in the same folder
 * I used poxy files so we should download the following libraries and save them in folder called "bin" with all the other files: "OxyPlot.Wpf", "OxyPlot.Core"
-*download .net framework its free ( .NET Framework Version 4.5.2 ) or try other sites also
+* download .net framework its free ( .NET Framework Version 4.5.2 ) or try other sites also
 Install .net framework
 * Open cmd
 * set path of cmd by using (set path="") command.
